@@ -7,7 +7,7 @@ def my_select(collection)
       select.push(collection[i])
     end
     i ++ 1
-  end 
+  end
 
   select
 end
